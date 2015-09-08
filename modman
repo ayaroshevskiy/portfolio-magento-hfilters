@@ -1,0 +1,4 @@
+# Holoflek_Filters
+code                    app/code/local/Holoflek/Filters/
+frontend/template/*     app/design/frontend/base/default/template/holoflek/filters
+Holoflek_Filters.xml    app/etc/modules/Holoflek_Filters.xml

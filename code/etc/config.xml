@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Holoflek_Filters>
+            <version>0.1.0</version>
+        </Holoflek_Filters>
+    </modules>
+    <global>
+        <helpers>
+            <holoflek_filters>
+                <class>Holoflek_Filters_Helper</class>
+            </holoflek_filters>
+        </helpers>
+        <blocks>
+            <holoflek_filters>
+                <class>Holoflek_Filters_Block</class>
+            </holoflek_filters>
+        </blocks>
+        <models>
+            <holoflek_filters>
+                <class>Holoflek_Filters_Model</class>
+            </holoflek_filters>
+        </models>
+    </global>
+</config>

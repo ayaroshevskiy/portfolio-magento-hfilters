@@ -1,0 +1,11 @@
+<config>
+  <modules>
+    <Holoflek_Filters>
+      <active>true</active>
+      <codePool>local</codePool>
+        <depends>
+            <Mage_Catalog />
+        </depends>
+    </Holoflek_Filters>
+  </modules>
+</config>
